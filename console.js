@@ -1,4 +1,5 @@
 // console-js. MIT license.
+// https://github.com/weilao/console-js
 // @author Weilao
 (function (_console) {
     var method,
