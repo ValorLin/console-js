@@ -7,7 +7,7 @@ Now you can use all of these without worrying about anything:
 ## Usage
 ### global
 ```html
-<script src="console-js/dist/console-js.min.js"></script>
+<script src="console-js/dist/console.min.js"></script>
 ```
 
 ```js
