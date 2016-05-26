@@ -1,0 +1,33 @@
+{
+  "name": "console-js",
+  "version": "0.0.1",
+  "main": "dist/console.js",
+  "description": "With this tiny script, Chrome/Firefox's console API won't break your code anymore.",
+  "keywords": [
+    "console"
+  ],
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": {
+    "name": "威老",
+    "email": "qqq123026689@126.com",
+    "url": "http://www.doctype-html.com"
+  },
+  "homepage": "https://github.com/weilao/console-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weilao/console-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weilao/console-js/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-header": "^1.8.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-umd": "^0.2.0"
+  }
+}
